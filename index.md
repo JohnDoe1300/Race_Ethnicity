@@ -1,7 +1,7 @@
 ## Race & Ethnicity
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-![avatar](https://c.min.ms/t/d/member/c/100/100909/pagegallery/1618068280/d758cdc6.jpg)
+<!-- ![avatar](https://c.min.ms/t/d/member/c/100/100909/pagegallery/1618068280/d758cdc6.jpg) -->
 <br>
 <br>
 
