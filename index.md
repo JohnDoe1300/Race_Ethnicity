@@ -2,8 +2,6 @@
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
 <!-- ![avatar](https://c.min.ms/t/d/member/c/100/100909/pagegallery/1618068280/d758cdc6.jpg) -->
-<br>
-<br>
 
 ### 华裔：Chinα Mountain Zhang by Maureen F. McHugh <br>
 未来世界夹缝生存的末日爱情，剧情简介比较那啥建议自己搜索，华裔 & 东欧裔
@@ -12,6 +10,11 @@
 
 ### 华裔：The Water That Falls on You From Nowhere<br>
 地球不久后气候改变，人只要一说谎就会天降暴雨。华裔Matt和白人男友Gus恋爱多年，却一直不敢向保守的中国父母出柜，这天在谎言之水的提示下，Matt意识到Gus对自己求婚了，他下定决心决定带着自己的未婚夫在圣诞节向保守的中国父母出柜。
+
+<br>
+
+### 日裔：Gardens of Hope by Michael Holloway Perronne<br>
+40年代美国加州，中产白男Jack偶遇日裔Hiro，并在Hiro身上逐渐觉醒了自己的性取向，在种族隔离的年代，两人的地下感情遭遇了种族+同性的双重困难，但却有着心酸和甜蜜。然而珍珠港事变爆发，总统罗斯福下令把所有美籍日裔关进集中营。面对被送入集中营的爱人，Jack试图抵抗历史的车轮，于是他接下了集中营旁边一个高中教师的职位，用这种方式接近营中的Hiro。
 
 <br>
 
@@ -25,13 +28,28 @@
 
 <br>
 
-### 墨西哥：Hola Papi! by John Brammer<br>
+### 越南裔：The Book of Salt by Monique Truong<br>
+意识流回忆录体虚构小说，越南厨师Bình在家乡和法国总督家的白人主厨有了第一段初恋，然而事情败露，遭天主教家庭驱赶。在漂泊了三年后Bình来到了法国，给历史上著名的蕾丝情侣Stein和Toklas担任厨师，招待巴黎的众多波西米亚文人，而在这里Bình也认识了他的"Sweet Sunday Man". 
+
+<br>
+
+### 墨西哥裔：Hola Papi! by John Brammer<br>
 自传，在多年的软件之旅后Brammer收到一份给Grindr写专栏的工作，从此Brammer和Grindr奇妙的缘分正式开始。每一个章节都是他用自身经历回答读者的一个问题，而他作为墨西哥裔gay生活在保守玉米地大农村的经历让他的故事充满了bittersweet的喜剧色彩。
+
+<br>
+
+### 墨西哥裔：Red, White, and Royal Blue by Casey McQuiston<br>
+大火的流量文应该不需要再多介绍了...墨西哥裔美国女总统的西裔儿子爱上了大英帝国的王子。
 
 <br>
 
 ### 非裔：Smoke, Lilies, and Jade by Richard Bruce Nugent<br>
 咆哮的二十年代interracial同性性爱的开创性作品，现代主义写法初见睥睨，黑人男主Alex的双性恋给他带来了从头到尾的迷茫，标题的smoke笼罩全文，在男主的一呼一吸里麻痹他的神经，让他在意识迷幻中的心态如同文章被各种省略号分隔开的句子一样缥缈不定
+
+<br>
+
+### 非裔：Greenland by David Santos Donaldson
+一百年前，英国作家福斯特在埃及行程途中和埃及男子Mohammed产生了一段情感，并导致Mohammed被捕入狱。一百年后，纽约作家Kip把自己关在地下室里，为福斯特这段鲜为人知的往事写书。在意识流般的叙事中，Kip融入了自己对于Mohammed的共鸣：Black, Queer, and an Other
 
 <br>
 
@@ -50,12 +68,22 @@
 
 <br>
 
+### 犹太：These Violent Delights by Micah Nemerever<br>
+70年代美国，丧父犹太青年Paul初入大学，认识了同为神童却是富人家的Julian，两人很快发现了双方都具备着"超人"特质(尼采的超人概念)，并开始了一段扭曲互虐的同性关系。而Paul的犹太背景大家庭也察觉了两人的情感。
+
+<br>
+
+### 犹太：Middle Ground by Ursula Zilinsky<br>
+本书出版于1968年，作者是纳粹德国前公民，后前往美国。这本小说是一个犹太男孩在集中营的生存日志，在每日都有可能遭受杀戮的阴影中，他遇到了一个因抵抗希特勒命令也被送入营中的士兵，两人在试图活下来的同时也开始产生了一段笼罩在阴霾下的情感。
+
+<br>
+
 ### 孟加拉：This Way Out by Tufayel Ahmed<br>
 穆斯林青年Armar接受了白人男友Joshua的求婚后，他用一条短信向家族群出柜。当他本以为穆斯林家人已经是他要面临的最大难题时，Joshua家人和Armar巨大的阶级和文化差异让两人的感情也出现了危机
 
 <br>
 
-### 穆斯林：Whisper by Tal Bauer<br>
+### 中东穆斯林：Whisper by Tal Bauer<br>
 反恐罗曼史，反恐专家和穆斯林CIA特工在阿富汗执行任务时的爱情，后者失联并成为大反派但最终反转反转再反转的动作大戏。看过的人评价超越了一般的romance范畴，作者对于穆斯林文化有着近乎狂热的理解。
 
 <br>
@@ -65,8 +93,18 @@
 
 <br>
 
+### 印裔：My Magical Palace by Kunal Mukherjee<br>
+印度男子Rahul年近三十，和白人男友Andrew生活在旧金山。当Andrew发现Rahul向家族隐瞒自己的性取向，甚至还在应付父母的相亲时，愤怒的Andrew要求解释，于是Rahul开始向男友讲述一段漫长、复杂、敏感的历史，讲他在70年代在印度恐同地区作为一个男孩成长、再到逃离原生家庭来到美国的故事。
+
+<br>
+
 ### 夏威夷裔：To Paradise by Hanya Yanagihara<br>
 同性版《达洛卫夫人》。在90年代艾滋潮的纽约，夏威夷落魄皇族后裔David和他的律所上司Charles举办了一场告别宴，隔天Charles患了HIV的初恋即将去瑞士安乐死。David对阶级、种族、取向、生死的思索和迷茫贯穿了这场宴会。
+
+<br>
+
+### 太平洋岛民：The People in the Trees by Hanya Yanagihara
+斯坦佛科学家Norton在太平洋小岛土著中发现了吃了一种能让人长生不老的乌龟。这本书探索了权力失衡导致的不对等关系，主要分为两条线，一是Norton和他收养的岛民土著孩子，二是以Norton为代表的西方精英利益集团和弱势的太平洋岛民。其中Norton和他的养子Victor产生了超出父子的肉体和精神关系，他们的情感是对整本书失衡关系的隐喻。
 
 <br>
 
@@ -75,8 +113,13 @@
 
 <br>
 
-### 苏格兰：Found Wanting/ The Englishman by Douglas Stuart (以及这个作家的所有作品)<br>
+### 苏格兰：Found Wanting/ The Englishman by Douglas Stuart<br>
 两篇短篇小说聚焦于苏格兰铁锈带下层阶级青少年的困惑。Found Wanting中的贫穷少年第一次在报纸上刊登约会广告，一个富裕的律师给他回了信并要带他进行一场少年无法想象的豪华约会。The Englishman里，出身于贫苦的苏格兰小岛的David在伦敦为一个英格兰富豪提供陪伴服务，他被多重边缘化，贫穷、性取向、苏格兰这三个标签都让他低人一等。富豪手腕上带有柠檬气味的古龙水，刺鼻酸苦的气味让David回忆起家乡农村的柠檬采摘季节，他作为孩子时咬下柠檬后的反感。
+
+<br>
+
+### 苏格兰：Young Mungo by Douglas Stuart<br>
+苏格兰铁锈带的两个少年Mungo和James成长于互为死敌的家族帮派，Mungo是新教黑帮，James是天主教黑帮。然而就像罗密欧与朱丽叶，两人逆反宗教宿仇产生了一段深厚的友情和爱情。然而Mungo即将被家母派去一段改变两人命运的外出周末行程。
 
 <br>
 
