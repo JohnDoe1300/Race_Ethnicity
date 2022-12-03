@@ -57,13 +57,6 @@
 
 <br>
 
-### 墨西哥裔：Hola Papi! by John Brammer<br>
-自传，在多年的软件之旅后Brammer收到一份给Grindr写专栏的工作，从此Brammer和Grindr奇妙的缘分正式开始。每一个章节都是他用自身经历回答读者的一个问题，而他作为墨西哥裔gay生活在保守玉米地大农村的经历让他的故事充满了bittersweet的喜剧色彩。
-
-![img](https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781797127989/hola-papi-9781797127989_hr.jpg)<br>
-
-<br>
-
 ### 墨西哥裔：Indivisible by Daniel Aleman<br>
 美籍西裔高中男生Mateo最深的噩梦就是父母被遣返，尽管他的家庭在美国生活了十几年，但他父母非法移民的身份让他的家庭随时可能被拆散。这天Mateo放学回家却发现父母被移民局抓走了，在和移民局对抗的过程中，Mateo的好友Adam给予了Mateo最大的心理支持，Mateo慢慢开始和Adam发展出了一段情感。然而Mateo痛苦地意识到Adam的家庭虽然同为墨西哥裔，但他们却有合法的绿卡身份。尽管最终父母化险为夷，但Mateo的故事仍是美国移民困境的缩影。
 
